@@ -75,3 +75,4 @@ dunit.ini
 *.dsv
 Server/WinServer.res
 WinServer.log
+__smartsetup/
