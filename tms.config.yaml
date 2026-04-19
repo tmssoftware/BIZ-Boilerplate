@@ -142,8 +142,8 @@ configuration for all products:
   # List of platforms to build for this product. If empty, all installed platforms will be built.
   # Smart Setup will anyway avoid building to a platform if it is not supported or property installed/configured.
   platforms:
-    #- win32intel
-    #- win64intel
+    - win32intel
+    - win64intel
     #- macos32intel
     #- macos64intel
     #- macos64arm
